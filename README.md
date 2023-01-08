@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isharanawa&show_icons=true&locale=en" alt="isharanawa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isharanawa&" alt="isharanawa" /></p>
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)
