@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 📫 How to reach me **isharan@synopsys.com**
+- 📫 How to reach me **yc.ishara@gmail.com**
 
 - ⚡ Fun fact **Many owners of large tech companies loved video games as kids!**
 
