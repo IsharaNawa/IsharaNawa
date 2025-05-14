@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cuda and Parallel Programming.**
+- 🌱 I’m currently researching about **Using MultiCore Systems to Accelerate Mission Critical Algorithms**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
