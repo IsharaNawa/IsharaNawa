@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Hi%20There!&fontSize=60)
 <h1 align="center">Hi! 👋, I'm Ishara Nawarathna.</h1>
-<h3 align="center">A Computer Engineer from Sri Lanka currently following his PhD at University of Sydney.</h3>
+<h3 align="left">A Computer Engineer from Sri Lanka currently following his PhD at University of Sydney.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isharanawa&label=Profile%20views&color=0e75b6&style=flat" alt="isharanawa" /> </p>
 
